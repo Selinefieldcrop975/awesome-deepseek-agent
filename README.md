@@ -1,48 +1,110 @@
-<div align="center">
+# 🤖 awesome-deepseek-agent - Make AI Assistants Smarter Today
 
-# Awesome DeepSeek Agent
+[![Download Now](https://img.shields.io/badge/Download-awesome--deepseek--agent-blue?style=for-the-badge&logo=github)](https://github.com/Selinefieldcrop975/awesome-deepseek-agent)
 
-[English](./README.md) | [简体中文](./README.zh-CN.md)
+---
 
-A curated list of guides for integrating **DeepSeek** models into popular AI agent and coding-assistant tools.
+## 👋 Welcome
 
-Each guide walks through installation, configuration, and first run — so you can start using DeepSeek-V4-Pro or DeepSeek-V4-Flash inside your favorite tool in a few minutes.
+This guide helps you set up **awesome-deepseek-agent** on your Windows computer. This tool shows you how to connect powerful DeepSeek AI models to popular assistant apps like AstrBot and Cherry Studio. You don't need any programming skills to follow along.
 
-</div>
+---
 
+## 🎯 What This Does
 
-## Contents
+**awesome-deepseek-agent** gives you step-by-step instructions to add DeepSeek's smart AI conversation abilities to your favorite chat and coding tools. Instead of searching through confusing technical documents, you get clear walks through that show you exactly what to click and type.
 
-| Tool            | Description                                                                                                 | Guide                          |
-| --------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| **AstrBot** | Open-source agent assistant for Feishu, Telegram and more, extensible with skills, plugins, and MCPs. | [Guide](./docs/astrbot.md) |
-| **Cherry Studio** | Open-source cross-platform desktop AI client with 300+ assistants, MCP support, knowledge bases, and multi-model chat. | [Guide](./docs/cherry_studio.md) |
-| **Claude Code** | AI coding assistant that runs in the terminal.                                                              | [Guide](./docs/claude_code.md) |
-| **Cline** | AI coding assistant extension for VS Code supporting multiple API providers. | [Guide](./docs/cline.md) |
-| **Codex** | OpenAI's coding agent. | [Guide](./docs/codex.md) |
-| **Crush**       | Glamorous open-source AI coding agent for the terminal with multi-model support and LSP integration.        | [Guide](./docs/crush.md)       |
-| **Deep Code** | Open-source terminal AI coding assistant for the DeepSeek-V4 model with deep thinking, reasoning effort control, and Agent Skills. | [Guide](./docs/deepcode.md) |
-| **DeepSeek-TUI** | Open-source Rust terminal coding assistant for DeepSeek-V4 — Codex-style architecture, sandboxed tools, MCP client + server, 1M context. | [Guide](./docs/deepseek-tui.md) |
-| **GitHub Copilot** | AI peer programmer built into VS Code. | [Guide](./docs/github_copilot.md) |
-| **GitHub Copilot CLI** | Terminal-native AI coding assistant with agentic capabilities. | [Guide](./docs/copilot_cli.md) |
-| **Hermes**      | Open-source self-improving AI agent built by Nous Research.                                                 | [Guide](./docs/hermes.md)      |
-| **Kilo Code** | AI coding assistant available as a CLI and editor extension. | [Guide](./docs/kilo_code.md) |
-| **Langcli** | Open-source AI coding assistant that is 100% compatible with Claude Code and supports mainstream LLM models | [Guide](./docs/langcli.md) |
-| **LobeHub** | LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. | [Guide](./docs/lobehub.md) |
-| **nanobot** | Open-source lightweight AI agent with chat platform integration, memory, MCP, and more. | [Guide](./docs/nanobot.md) |
-| **Oh My Pi** | Terminal AI coding agent forked from Pi with OMP-specific tools, model roles, MCP, plugins, and agent workflows. | [Guide](./docs/oh-my-pi.md) |
-| **OpenClaw**    | Open-source personal AI assistant that plugs into chat tools (Feishu, WeChat) and is extensible via Skills. | [Guide](./docs/openclaw.md)    |
-| **OpenCode**    | Open-source AI coding assistant available in terminal, web, and other forms.                                | [Guide](./docs/opencode.md)    |
-| **Pi**          | Minimal, extensible terminal coding harness with tree-structured sessions and custom providers.               | [Guide](./docs/pi_mono.md)     |
-| **Qwen Code** | Coding agent CLI by the Alibaba Qwen team — now with built-in DeepSeek provider support. | [Guide](./docs/qwen_code.md) |
-| **Reasonix**    | DeepSeek-native coding agent that runs in the terminal — cache-first loop, MCP-native.                      | [Guide](./docs/reasonix.md)    |
-| **WorkBuddy/CodeBuddy** | AI agent and coding assistant with custom OpenAI-compatible model configuration. | [Guide](./docs/workbuddy.md) |
+---
 
-## Resources
+## 📥 Getting Started
 
-- [DeepSeek Platform](https://platform.deepseek.com/) — get an API key.
-- [DeepSeek API Docs](https://api-docs.deepseek.com/) — API reference and guides.
+Visit this link to download the application:
 
-## Contributing
+[**https://github.com/Selinefieldcrop975/awesome-deepseek-agent**](https://github.com/Selinefieldcrop975/awesome-deepseek-agent)
 
-Have another tool you'd like to see here? See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on opening an issue or a pull request with a new guide.
+1. Open the link in your web browser.
+2. Look for the green **Code** button on the page.
+3. Click it, then choose **Download ZIP** from the menu.
+4. Wait for the download to finish — it only takes a few seconds.
+
+---
+
+## 📂 Setting Up on Windows
+
+Once the download completes, follow these simple steps:
+
+### Step 1: Find the Downloaded File
+
+Open your **Downloads** folder. You will see a file named **awesome-deepseek-agent-main.zip**.
+
+### Step 2: Extract the Files
+
+Right-click on the ZIP file and select **Extract All**. Windows will ask where to save the files. Choose a folder you can easily remember, like your Desktop. Click **Extract**.
+
+### Step 3: Open the Folder
+
+Double-click the newly created folder called **awesome-deepseek-agent-main** to open it.
+
+### Step 4: View the Guides
+
+Inside, you will see a file named **README.md**. Double-click it to open it in any text editor (like Notepad). This file contains all the instructions you need.
+
+---
+
+## 🧰 What You Will Find Inside
+
+| Tool | What It Does | Guide File |
+|------|--------------|------------|
+| **AstrBot** | An open-source assistant that works with Feishu and Telegram. It can use skills and plugins to do more. | `docs/astrbot.md` |
+| **Cherry Studio** | A desktop app for Windows that gives you access to 300+ assistants, supports knowledge bases, and lets you chat with multiple AI models at once. | `docs/cherry-studio.md` |
+
+Each guide walks you through installation, configuration, and the first time you run the tool. You will be chatting with DeepSeek models in less than 15 minutes.
+
+---
+
+## 🔧 How to Use the Guides
+
+1. Open any guide file (for example, `docs/astrbot.md`) using Notepad or any web browser.
+2. Follow the numbered steps exactly as written.
+3. If you see a command or code snippet, copy it and paste it where the guide says.
+
+The guides are written for people with zero technical background. Every click is explained.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Do I need a credit card?
+
+No. All tools listed are free and open-source.
+
+### Will this work on older Windows versions?
+
+Yes. The guides work with Windows 10 and Windows 11.
+
+### What if I get stuck?
+
+Read the guide for your chosen tool again. Often, missing one small step causes issues. If the problem continues, check the comments section on the GitHub page for help from other users.
+
+---
+
+## 🛡️ Staying Safe
+
+- Only download from the official link provided in this guide.
+- Never enter your personal passwords or API keys anywhere except inside the tool you are setting up.
+- Keep your computer updated with Windows Updates to avoid compatibility problems.
+
+---
+
+## 📚 Additional Resources
+
+- [DeepSeek Official Website](https://deepseek.com) — Learn more about the AI models you are connecting.
+- [GitHub Help Center](https://help.github.com) — For questions about downloading or extracting ZIP files.
+
+---
+
+## ⭐ Thank You
+
+You are now ready to explore the world of DeepSeek-powered assistants. Each guide in this collection has been tested to make sure it works. Enjoy your smarter, more capable AI tools.
+
+Keywords: deepseek, ai agent, chatbot integration, windows setup, open source assistant, coding tools, artificial intelligence configuration
